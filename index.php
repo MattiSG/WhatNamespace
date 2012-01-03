@@ -36,5 +36,8 @@
 		  
 		<footer>
 		</footer>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools-yui-compressed.js" language="javascript" type="text/javascript"></script>
+		<script src="js/WhatNamespace.js" language="javascript" type="text/javascript"></script>
 	</body>
 </html>
