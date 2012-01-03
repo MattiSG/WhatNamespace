@@ -21,7 +21,6 @@
 	    			<tr>
 	    				<th>Dialect</th>
 	    				<th>Namespace</th>
-	    				<th>Documentation</th>
 	    			</tr>
 	    		</thead>
 	    		

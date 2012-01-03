@@ -6,13 +6,15 @@
 	
 	foreach ($data as $dialect => $entry) {
 		echo '<tr>';
-		echo '<th>' . $dialect . '</th>';
-		printCellFrom('ns', $entry);
-		printCellFrom('doc', $entry);
+		
+		echo '<th>'
+			 . $dialect . ' '
+			 . '<a class="doc" href="' . $entry['doc'] . '" '
+			 . 'title="Documentation for' . $dialect . '">'
+			 . '(doc)</a>'
+			 . '</th>';
+			 
+		echo '<td class="ns"><input type="text" readonly="readonly" value="' . $entry['ns'] . '"></input></td>';
 		echo '</tr>';
-	}
-	
-	function printCellFrom($member, $data) {
-		echo '<td class="' . $member . '">' . $data[$member] . '</td>';
 	}
 ?>
