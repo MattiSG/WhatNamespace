@@ -1,5 +1,14 @@
 {
-	"RDF": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
-	"RDFS": "http://www.w3.org/2000/01/rdf-schema",
-	"OWL 2": "http://www.w3.org/2006/12/owl2-xml"
+	"RDF": {
+		"ns":	"http://www.w3.org/1999/02/22-rdf-syntax-ns",
+		"doc":	""
+	},
+	"RDFS": {
+		"ns": "http://www.w3.org/2000/01/rdf-schema",
+		"doc": ""
+	},
+	"OWL 2": {
+		"ns": "http://www.w3.org/2006/12/owl2-xml",
+		"doc": "http://www.w3.org/TR/owl2-overview"
+	}
 }
