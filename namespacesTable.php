@@ -8,13 +8,15 @@
 		echo '<tr>';
 		
 		echo '<th>'
-			 . $dialect . ' '
-			 . '<a class="doc" href="' . $entry['doc'] . '" '
-			 . 'title="Documentation for' . $dialect . '">'
-			 . '(doc)</a>'
+			 . $dialect
 			 . '</th>';
 			 
 		echo '<td class="ns"><input type="text" readonly="readonly" value="' . $entry['ns'] . '"></input></td>';
+		
+		echo '<td class="doc"><a href="' . $entry['doc'] . '" '
+			 . 'title="Documentation for' . $dialect . '" target="_blank">'
+			 . '&rarr;</a></td>';
+
 		echo '</tr>';
 	}
 ?>

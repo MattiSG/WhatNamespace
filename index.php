@@ -23,6 +23,7 @@
 	    			<tr>
 	    				<th>Dialect</th>
 	    				<th>Namespace</th>
+	    				<th>Doc</th>
 	    			</tr>
 	    		</thead>
 	    		
