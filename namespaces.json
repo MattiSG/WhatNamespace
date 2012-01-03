@@ -1,0 +1,5 @@
+{
+	"RDF": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+	"RDFS": "http://www.w3.org/2000/01/rdf-schema",
+	"OWL 2": "http://www.w3.org/2006/12/owl2-xml"
+}
