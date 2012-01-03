@@ -7,6 +7,8 @@
 		<title>Namespaces — WhatNamespace</title>
 		<meta name="description" content="Namespaces of all XML dialects.">
 		<meta name="author" content="Matti Schneider-Ghibaudo">
+		
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
 	
 	<body>
