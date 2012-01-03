@@ -3,6 +3,7 @@
 	
 	$data = json_load_file('data/namespaces.json', __FILE__);
 	
+	ksort($data);
 	
 	foreach ($data as $dialect => $entry) {
 		echo '<tr>';
