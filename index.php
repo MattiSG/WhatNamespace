@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 	
 		<title>Namespaces — WhatNamespace</title>
-		<meta name="description" content="Namespaces of all XML dialects.">
+		<meta name="description" content="XML dialects and their namespaces.">
 		<meta name="author" content="Matti Schneider-Ghibaudo">
 		
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
@@ -13,8 +13,8 @@
 	
 	<body>
 	    <header>
-	    	<h1>Namespaces</h1>
-	    	<p>Find the namespace for all XML dialects.</p>
+	    	<h1>WhatNamespace</h1>
+	    	<p>XML dialects and their namespaces.</p>
 	    </header>
 	    
 	    <div id="main" role="main">
@@ -36,6 +36,7 @@
 		</div>
 		  
 		<footer>
+			<a href="http://www.w3.org/TR/REC-xml-names/">XML Namespace Spec</a>
 		</footer>
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools-yui-compressed.js" language="javascript" type="text/javascript"></script>

@@ -91,6 +91,17 @@ tr:hover {
 }
 
 
+/******** FOOTER *********/
+
+footer {
+	position: fixed;
+	bottom: 0;
+	font-size: 80%;
+	padding: .5em;
+	text-align: center;
+	width: 100%;
+}
+
 /******** JS AUGMENTATIONS *********/
 
 .active {
