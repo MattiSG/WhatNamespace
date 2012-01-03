@@ -37,6 +37,8 @@
 		  
 		<footer>
 			<a href="http://www.w3.org/TR/REC-xml-names/">XML Namespace Spec</a>
+			—
+			Made by <a href="http://mattischneider.fr">Matti Schneider-Ghibaudo</a>
 		</footer>
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools-yui-compressed.js" language="javascript" type="text/javascript"></script>
