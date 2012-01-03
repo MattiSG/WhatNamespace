@@ -1,7 +1,7 @@
 <?php
-	require_once('jsonwrapper.php');
+	require_once('lib/jsonwrapper.php');
 	
-	$data = json_load_file('namespaces.json');
+	$data = json_load_file('data/namespaces.json', __FILE__);
 	
 	
 	foreach ($data as $dialect => $ns) {
