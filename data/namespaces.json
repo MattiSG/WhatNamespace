@@ -13,7 +13,8 @@
 	},
 	"OWL 2": {
 		"ns": "http://www.w3.org/2006/12/owl2-xml",
-		"doc": "http://www.w3.org/TR/owl2-overview"
+		"doc": "http://www.w3.org/TR/owl2-overview",
+		"short": "owl"
 	},
 	"XHTML": {
 		"ns": "http://www.w3.org/1999/xhtml",
@@ -22,5 +23,19 @@
 	"XSD": {
 		"ns": "http://www.w3.org/2001/XMLSchema",
 		"doc": "http://www.w3.org/XML/Schema"
+	},
+	"Dublin Core": {
+		"ns": "http://purl.org/dc/elements/1.1/",
+		"doc": "http://dublincore.org/documents/usageguide/elements.shtml",
+		"short": "dc"
+	},
+	"FOAF": {
+		"ns": "http://xmlns.com/foaf/0.1/",
+		"doc": "http://xmlns.com/foaf/spec/#sec-crossref"
+	},
+	"CC REL": {
+		"ns": "http://creativecommons.org/ns",
+		"doc": "http://creativecommons.org/ns",
+		"short": "cc"
 	}
 }
