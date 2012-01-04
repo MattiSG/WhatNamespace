@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 	
 		<title>Namespaces — WhatNamespace</title>
-		<meta name="description" content="XML dialects and their namespaces.">
+		<meta name="description" content="Semantic XML dialects and their namespaces.">
 		<meta name="author" content="Matti Schneider-Ghibaudo">
 		
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
@@ -14,7 +14,7 @@
 	<body>
 	    <header>
 	    	<h1>WhatNamespace</h1>
-	    	<p>XML dialects and their namespaces.</p>
+	    	<p>Semantic XML dialects and their namespaces.</p>
 	    </header>
 	    
 	    <div id="main" role="main">
@@ -23,7 +23,7 @@
 	    			<tr>
 	    				<th>Dialect</th>
 	    				<th>Namespace</th>
-	    				<th>Doc</th>
+	    				<th>Spec</th>
 	    			</tr>
 	    		</thead>
 	    		
