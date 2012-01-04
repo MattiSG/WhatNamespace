@@ -18,5 +18,9 @@
 	"XHTML 1.1": {
 		"ns": "http://www.w3.org/1999/xhtml",
 		"doc": "http://www.w3.org/TR/xhtml11/"
+	},
+	"XSD": {
+		"ns": "http://www.w3.org/2001/XMLSchema",
+		"doc": "http://www.w3.org/XML/Schema"
 	}
 }
