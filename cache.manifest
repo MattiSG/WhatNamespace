@@ -1,0 +1,8 @@
+CACHE MANIFEST
+# version 1
+
+CACHE:
+index.php
+css/main.css
+js/WhatNamespace.js
+js/mootools-core-1.4.2.js

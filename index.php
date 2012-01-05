@@ -1,5 +1,5 @@
 <!doctype html>  
-<html lang="en-EN">
+<html lang="en-EN" manifest="cache.manifest">
 	<head>
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -47,7 +47,7 @@
 			Made by <a href="http://mattischneider.fr">Matti Schneider-Ghibaudo</a>
 		</footer>
 		
-		<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools-yui-compressed.js" language="javascript" type="text/javascript"></script>
+		<script src="js/mootools-core-1.4.2.js" language="javascript" type="text/javascript"></script> <!-- no CDN for proper app cache (FALLBACK has same origin policy) -->
 		<script src="js/WhatNamespace.js" language="javascript" type="text/javascript"></script>
 		
 		<script type="text/javascript">

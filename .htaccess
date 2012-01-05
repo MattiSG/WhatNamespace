@@ -4,3 +4,5 @@ SetEnv REGISTER_GLOBALS 0
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+AddType text/cache-manifest manifest
