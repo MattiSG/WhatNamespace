@@ -17,7 +17,7 @@
 	    	<!--googleoff: snippet-->
 			<h1>WhatNamespace</h1>
 			<!--googleon: snippet-->
-			<p>A directory of XML dialects and their namespace.</p>
+			<p>A directory of XML dialects and their namespaces.</p>
 			<!--googleoff: snippet-->
 			<p><a href="http://www.rpbourret.com/xml/NamespacesFAQ.htm#exec_1" target="_blank">What is a namespace?</a></p>
 			<!--googleon: snippet-->
