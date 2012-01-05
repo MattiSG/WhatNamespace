@@ -1,7 +1,7 @@
 window.addEvent('domready', function() {
 	var HOVER_CLASS = 'hover';
 	
-	$$('tbody tr').each(function(tr) {
+	$$('.entry').each(function(tr) {
 		var nsInput = tr.getElement('input');
 		var selecter = function() {
 			nsInput.focus();	// two stages are necessary for mobile Safari

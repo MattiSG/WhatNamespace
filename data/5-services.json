@@ -1,0 +1,19 @@
+{
+	"category": "Web services",
+	"content": {
+		"SOAP": {
+			"ns": "http://schemas.xmlsoap.org/wsdl/soap/"
+		},
+		"SOAP Encoding": {
+			"ns": "http://schemas.xmlsoap.org/soap/encoding/",
+			"short": "soapenc"
+		},
+		"SOAP Envelope": {
+			"ns": "http://schemas.xmlsoap.org/soap/envelope/",
+			"short": "SOAP-ENV"
+		},
+		"WSDL": {
+			"ns": "http://schemas.xmlsoap.org/wsdl/"
+		}
+	}
+}

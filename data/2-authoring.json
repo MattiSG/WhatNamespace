@@ -1,0 +1,26 @@
+{
+	"category": "Authoring",
+	"content": {
+		"SVG": {
+			"ns": "http://www.w3.org/2000/svg",
+			"doc": "http://www.w3.org/TR/SVG/"
+		},
+		"XHTML": {
+			"ns": "http://www.w3.org/1999/xhtml",
+			"doc": "http://www.w3.org/TR/xhtml11/"
+		},
+		"GeoRSS": {
+			"ns": "http://www.georss.org/georss"
+		},
+		"XSL Stylesheet": {
+			"ns": "http://www.w3.org/1999/XSL/Format",
+			"doc": "http://www.w3.org/TR/xsl/",
+			"short": "fo"
+		},
+		"XML Schema": {
+			"ns": "http://www.w3.org/2001/XMLSchema",
+			"doc": "http://www.w3.org/XML/Schema",
+			"short": "xsd"
+		}
+	}
+}

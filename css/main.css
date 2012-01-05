@@ -74,6 +74,13 @@ tbody th {
 	padding-right: 1em;
 }
 
+tr.category th {
+	text-align: center;
+	font-weight: 400;
+	border-top: 1px #999 solid;
+	padding: .4em;
+}
+
 /** NAMESPACES **/
 .ns {
 	padding-bottom: 0.3em;
@@ -113,7 +120,7 @@ tbody th {
 	background-color: #000;
 }
 
-tbody tr:hover, tr.hover {
+tr.entry:hover, tr.entry.hover {
 	background-color: #BBB;
 }
 

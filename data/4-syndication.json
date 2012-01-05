@@ -1,0 +1,27 @@
+{
+	"category": "Syndication",
+	"content": {
+		"Atom Publishing": {
+			"ns": "http://www.w3.org/2007/app",
+			"doc": "http://tools.ietf.org/html/rfc5023",
+			"short": "app"
+		},
+		"Atom": {
+			"ns": "http://purl.org/atom/ns",
+			"short": "feed"
+		},
+		"RSS": {
+			"ns": "http://purl.org/rss/1.0/",
+			"versions": {
+				"0.9.1": {
+					"ns": "http://purl.org/rss/1.0/modules/rss091/",
+					"short": "rss091"				
+				}
+			}
+		},
+		"Syndication": {
+			"ns": "http://purl.org/rss/1.0/modules/syndication/",
+			"short": "syn"
+		}
+	}
+}

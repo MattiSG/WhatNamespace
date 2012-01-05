@@ -1,0 +1,60 @@
+{
+	"category": "Semantic",
+	"content": {
+		"RDF": {
+			"ns":	"http://www.w3.org/1999/02/22-rdf-syntax-ns",
+			"doc":	""
+		},
+		"RDFS": {
+			"ns": "http://www.w3.org/2000/01/rdf-schema",
+			"doc": ""
+		},
+		"SPARQL Service": {
+			"ns": "http://www.w3.org/ns/sparql-service-description",
+			"doc": "http://www.w3.org/TR/sparql11-service-description/",
+			"short": "sd"
+		},
+		"SPARQL": {
+			"ns": "http://www.w3.org/ns/sparql",
+			"doc": "http://www.w3.org/TR/sparql11-query/",
+			"short": "sfn"
+		},
+		"OWL": {
+			"ns": "http://www.w3.org/2006/12/owl2-xml",
+			"doc": "http://www.w3.org/TR/owl2-overview",
+			"short": "owl",
+			"versions": {
+				"OWL 1": {
+					"ns": "http://www.w3.org/2002/07/owl",
+					"doc": "http://www.w3.org/TR/owl-guide/",
+					"short": "owl1"
+				},
+				"OWL DL": {
+					"ns": "http://www.w3.org/ns/owl-profile/DL",
+					"doc": "http://www.w3.org/ns/owl-profile/",
+					"short": "owldl"
+				},
+				"OWL EL": {
+					"ns": "http://www.w3.org/ns/owl-profile/EL",
+					"doc": "http://www.w3.org/ns/owl-profile/",
+					"short": "owlel"
+				},
+				"OWL QL": {
+					"ns": "http://www.w3.org/ns/owl-profile/QL",
+					"doc": "http://www.w3.org/ns/owl-profile/",
+					"short": "owlql"
+				},
+				"OWL RL": {
+					"ns": "http://www.w3.org/ns/owl-profile/RL",
+					"doc": "http://www.w3.org/ns/owl-profile/",
+					"short": "owlrl"
+				},
+				"OWL Full": {
+					"ns": "http://www.w3.org/ns/owl-profile/Full",
+					"doc": "http://www.w3.org/ns/owl-profile/",
+					"short": "owlfull"
+				}
+			}
+		}
+	}
+}
