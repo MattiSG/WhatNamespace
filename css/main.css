@@ -3,10 +3,26 @@ body {
 	background-color: #F3F3F3;
 }
 
+header, footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	background-color: #F3F3F3;
+	background-color: rgba(245, 245, 245, 0.8);
+	box-shadow: 0 0 8px #000;
+	-webkit-transition: background-color 0.4s;
+	-moz-transition: background-color 0.4s;
+	-o-transition: background-color 0.4s;
+}
+
+header:hover, footer:hover {
+	background-color: #F3F3F3;
+}
 
 /******** HEADER *********/
 header {
-	position: fixed;
+	top: 0;
+	padding: .4em 0 .4em 1em ;
 }
 
 header * {
@@ -22,7 +38,7 @@ h1 {
 /******** MAIN *********/
 
 #main {
-	padding-top: 3em;
+	padding: 3em 0;
 	width: 100%;
 }
 
@@ -94,12 +110,10 @@ tr:hover {
 /******** FOOTER *********/
 
 footer {
-	position: fixed;
 	bottom: 0;
 	font-size: 75%;
 	padding: .5em;
 	text-align: center;
-	width: 100%;
 }
 
 /******** JS AUGMENTATIONS *********/
