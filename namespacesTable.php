@@ -14,9 +14,13 @@
 			 
 		echo '<td class="ns"><input type="text" readonly="readonly" value="' . $entry['ns'] . '"></input></td>';
 		
-		echo '<td class="doc"><a href="' . $entry['doc'] . '" '
+		echo '<td class="doc">';
+		if (isset($entry['doc'])) {
+			echo '<a href="' . $entry['doc'] . '" '
 			 . 'title="Documentation for' . $dialect . '" target="_blank">'
-			 . '&rarr;</a></td>';
+			 . '&rarr;</a>';
+		}
+		echo '</td>';
 
 		echo '</tr>';
 	}
