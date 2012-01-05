@@ -12,6 +12,7 @@
 			 . $dialect
 			 . '</th>';
 			 
+		echo '<!--googleoff: snippet-->';
 		echo '<td class="ns"><input type="text" readonly="readonly" value="' . $entry['ns'] . '"></input></td>';
 		
 		echo '<td class="doc">';
@@ -21,6 +22,8 @@
 			 . '&rarr;</a>';
 		}
 		echo '</td>';
+
+		echo '<!--googleon: snippet-->';
 
 		echo '</tr>';
 	}
