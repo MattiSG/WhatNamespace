@@ -69,5 +69,17 @@
 	},
 	"TNS": {
 		"ns": "http://www.restfulwebservices.net/ServiceContracts/2008/01"
+	},
+	"XSL": {
+		"ns": "http://www.w3.org/1999/XSL/Format",
+		"doc": "http://www.w3.org/TR/xsl/"
+	},
+	"Xlink": {
+		"ns": "http://www.w3.org/1999/xlink",
+		"doc": "http://www.w3.org/TR/xlink11/"
+	},
+	"XNRL": {
+		"ns": "http://xnrl.org/",
+		"doc": "http://www.textuality.com/xml/xnrl.html"
 	}
 }
