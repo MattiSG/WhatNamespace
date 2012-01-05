@@ -23,9 +23,12 @@
 		ksort($data);
 		
 		foreach ($data as $dialect => $entry) {
-			$shortName = $entry['short'];
-			
-			if (! isset($shortName))
+
+			$shortName = '';
+
+			if (array_key_exists('short', $entry))
+				$shortName = $entry['short'];
+			else
 				$shortName = strtolower($dialect);
 			
 		
