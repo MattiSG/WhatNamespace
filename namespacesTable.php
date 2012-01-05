@@ -2,14 +2,8 @@
 	require_once('lib/jsonwrapper.php');
 	
 	
-	$handle = opendir('data');
-	
-	while (false !== ($filename = readdir($handle))) {
-		if (strrchr($filename, '.') == '.json')
-			printCategory('data/' . $filename);
-	}
-	
-	closedir($handle);
+	foreach (glob('data/*.json') as $filename)
+		printCategory($filename);
 	
 	
 	
