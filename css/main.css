@@ -9,7 +9,7 @@ header, footer {
 	left: 0;
 	background-color: #F3F3F3;
 	background-color: rgba(245, 245, 245, 0.8);
-	box-shadow: 0 0 8px #000;
+	box-shadow: -8px 0 8px #000;
 	-webkit-transition: background-color 0.4s;
 	-moz-transition: background-color 0.4s;
 	-o-transition: background-color 0.4s;
@@ -113,7 +113,7 @@ tbody th {
 	background-color: #000;
 }
 
-tr:hover, tr.hover {
+tbody tr:hover, tr.hover {
 	background-color: #BBB;
 }
 
