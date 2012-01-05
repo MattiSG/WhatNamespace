@@ -24,6 +24,9 @@
 		"ns": "http://www.w3.org/2001/XMLSchema",
 		"doc": "http://www.w3.org/XML/Schema"
 	},
+	"XSI": {
+		"ns": "http://www.w3.org/2001/XMLSchema-instance"
+	},
 	"Dublin Core": {
 		"ns": "http://purl.org/dc/elements/1.1/",
 		"doc": "http://dublincore.org/documents/usageguide/elements.shtml",
@@ -37,5 +40,34 @@
 		"ns": "http://creativecommons.org/ns",
 		"doc": "http://creativecommons.org/ns",
 		"short": "cc"
+	},
+	"Atom": {
+		"ns": "http://purl.org/atom/ns",
+		"short": "feed"
+	},
+	"EXIF": {
+		"ns": "http://schemas.google.com/photos/exif/2007"
+	},
+	"OpenSearch": {
+		"ns": "http://a9.com/-/spec/opensearchrss/1.0/"
+	},
+	"GeoRSS": {
+		"ns": "http://www.georss.org/georss"
+	},
+	"SOAP": {
+		"ns": "http://schemas.xmlsoap.org/wsdl/soap/"
+	},
+	"SOAP encoding": {
+		"ns": "http://schemas.xmlsoap.org/soap/encoding/",
+		"short": "soapenc"
+	},
+	"WSDL": {
+		"ns": "http://schemas.xmlsoap.org/wsdl/"
+	},
+	"WSAM": {
+		"ns": "http://www.w3.org/2007/05/addressing/metadata"
+	},
+	"TNS": {
+		"ns": "http://www.restfulwebservices.net/ServiceContracts/2008/01"
 	}
 }
