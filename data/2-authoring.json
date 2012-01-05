@@ -9,6 +9,14 @@
 			"ns": "http://www.w3.org/1999/xhtml",
 			"doc": "http://www.w3.org/TR/xhtml11/"
 		},
+		"HTML 5": {
+			"ns": "http://www.w3.org/1999/xhtml",
+			"doc": "http://www.w3.org/TR/html5/namespaces.html",
+			"short": "html"
+		},
+		"MathML": {
+			"ns": "http://www.w3.org/1998/Math/MathML"
+		},
 		"GeoRSS": {
 			"ns": "http://www.georss.org/georss"
 		},
