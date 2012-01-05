@@ -13,7 +13,7 @@
 			 . '</th>';
 			 
 		echo '<!--googleoff: snippet-->';
-		echo '<td class="ns"><input type="text" readonly="readonly" value="' . $entry['ns'] . '"></input></td>';
+		echo '<td class="ns"><input type="text" value="' . $entry['ns'] . '"></input></td>';
 		
 		echo '<td class="doc">';
 		if (isset($entry['doc'])) {
