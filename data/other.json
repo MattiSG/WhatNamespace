@@ -7,12 +7,6 @@
 		"OpenSearch": {
 			"ns": "http://a9.com/-/spec/opensearchrss/1.0/"
 		},
-		"WSAM": {
-			"ns": "http://www.w3.org/2007/05/addressing/metadata"
-		},
-		"TNS": {
-			"ns": "http://www.restfulwebservices.net/ServiceContracts/2008/01"
-		},
 		"XSLT": {
 			"ns": "http://www.w3.org/1999/XSL/Transform",
 			"doc": "http://www.w3.org/TR/xslt",
