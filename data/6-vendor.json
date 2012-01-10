@@ -6,6 +6,12 @@
 		},
 		"gCal": {
 			"ns": "http://schemas.google.com/gCal/2005"
+		},
+		"Corese": {
+			"ns": "http://www.inria.fr/acacia/corese",
+			"doc": "http://www-sop.inria.fr/acacia/soft/corese/querydoc/node14.html",
+			"manual": "http://www-sop.inria.fr/edelweiss/software/corese/v2_4_0/manual/index.php",
+			"short": "cos"
 		}
 	}
 }
