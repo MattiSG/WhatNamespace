@@ -140,6 +140,20 @@ footer {
 	cursor: pointer;
 }
 
+#promptCopy {
+	font-size: 230%;
+	position: fixed;
+	top: 70%;
+	left: 45%;
+	color: white;
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.8);
+	border-radius: 0.5em;
+	padding: 1.2em;
+	text-shadow: 0 2px 0 #444;
+	box-shadow: 0 2px 4px #000;
+}
+
 
 /******** MOBILE *********/
 
@@ -158,5 +172,9 @@ footer {
 	
 	header * {
 		display: block;
+	}
+	
+	#promptCopy {
+		display: none;
 	}
 }
