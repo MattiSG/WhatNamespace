@@ -12,6 +12,11 @@
 			"doc": "http://www-sop.inria.fr/acacia/soft/corese/querydoc/node14.html",
 			"manual": "http://www-sop.inria.fr/edelweiss/software/corese/v2_4_0/manual/index.php",
 			"short": "cos"
+		},
+		"INRIA Rules": {
+			"ns": "http://ns.inria.fr/edelweiss/2011/rule#",
+			"doc": "http://www-sop.inria.fr/edelweiss/software/corese/kgram/rule.html",
+			"short": "rul"
 		}
 	}
 }
