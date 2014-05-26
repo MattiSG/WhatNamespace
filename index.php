@@ -9,9 +9,16 @@
 		<meta name="description" content="XML dialects and their namespaces.">
 		<meta name="author" content="Matti Schneider">
 
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@matti_sg">
+		<meta name="twitter:title" content="WhatNamespace.net">
+		<meta name="twitter:description" content="Search XML dialects and their namespaces">
+		<meta name="twitter:creator" content="">
+		<meta name="twitter:domain" content="http://whatnamespace.net/">
 		<meta name="twitter:image:src" content="http://whatnamespace.net/thumbnail.png">
 		<meta name="og:image" content="http://whatnamespace.net/thumbnail.png">
 		<meta name="thumbnail" content="http://whatnamespace.net/thumbnail.png">
+
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
 
