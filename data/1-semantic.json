@@ -24,6 +24,11 @@
 			"doc": "http://www.w3.org/2005/rules/wiki/RIF_In_RDF",
 			"full": "Rule Interchange Format"
 		},
+		"SKOS": {
+			"ns": "http://www.w3.org/2004/02/skos/core#",
+			"doc": "http://www.w3.org/TR/skos-reference",
+			"full": "Simple Knowledge Organization System"
+		},
 		"OWL": {
 			"ns": "http://www.w3.org/2006/12/owl2-xml",
 			"doc": "http://www.w3.org/TR/owl2-overview",
