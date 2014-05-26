@@ -7,7 +7,7 @@
 
 		<title>XML dialects and their namespaces &#8212; WhatNamespace</title>
 		<meta name="description" content="XML dialects and their namespaces.">
-		<meta name="author" content="Matti Schneider-Ghibaudo">
+		<meta name="author" content="Matti Schneider">
 
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
@@ -44,7 +44,7 @@
 		<footer>
 			<a href="http://www.w3.org/TR/REC-xml-names/">XML Namespace Spec</a>
 			—
-			Made by <a href="http://mattischneider.fr">Matti Schneider-Ghibaudo</a>
+			Made by <a href="http://mattischneider.fr">Matti Schneider</a>
 		</footer>
 
 		<script src="js/mootools-core-1.4.2.js" language="javascript" type="text/javascript"></script> <!-- no CDN for proper app cache (FALLBACK has same origin policy) -->
