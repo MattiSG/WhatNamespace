@@ -37,3 +37,13 @@ Alternatives
 
 - [prefix.cc](http://prefix.cc) is much more feature-full than WhatNamespace as a repository of namespaces, and offers many more output formats. I simply didn't know about it when I built WN  ;)  The only advantage of WhatNamespace is to be full-page, so you can `⌘-F` if you don’t remember the exact name of a dialect.
 - [LOV](http://lov.okfn.org/dataset/lov/) is much more complete than WhatNamespace as a repository of dialects. It simply didn't exist when I built WN  :)
+
+
+License
+-------
+
+GNU Affero General Public License.
+
+That is: read, edit, improve, but share your improvements back with the community, including if you offer this piece of software as a service.
+
+If you have any issues with this license, drop me an email  :)
