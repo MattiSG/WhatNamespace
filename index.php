@@ -55,6 +55,8 @@
 			<a href="http://www.w3.org/TR/REC-xml-names/">XML Namespace Spec</a>
 			—
 			Made by <a href="http://mattischneider.fr">Matti Schneider</a>
+			—
+			<a href="https://github.com/MattiSG/WhatNamespace" target="_blank">Source on GitHub</a>
 		</footer>
 
 		<script src="js/mootools-core-1.4.2.js" language="javascript" type="text/javascript"></script> <!-- no CDN for proper app cache (FALLBACK has same origin policy) -->
