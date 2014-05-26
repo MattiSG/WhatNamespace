@@ -9,6 +9,9 @@
 		<meta name="description" content="XML dialects and their namespaces.">
 		<meta name="author" content="Matti Schneider">
 
+		<meta name="twitter:image:src" content="http://whatnamespace.net/thumbnail.png">
+		<meta name="og:image" content="http://whatnamespace.net/thumbnail.png">
+		<meta name="thumbnail" content="http://whatnamespace.net/thumbnail.png">
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
 
