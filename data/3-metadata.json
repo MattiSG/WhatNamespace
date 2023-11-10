@@ -1,0 +1,23 @@
+{
+	"category": "Metadata",
+	"content": {
+		"Dublin Core": {
+			"ns": "http://purl.org/dc/elements/1.1/",
+			"doc": "http://dublincore.org/documents/usageguide/elements.shtml",
+			"short": "dc"
+		},
+		"FOAF": {
+			"ns": "http://xmlns.com/foaf/0.1/",
+			"doc": "http://xmlns.com/foaf/spec/#sec-crossref"
+		},
+		"CC REL": {
+			"ns": "http://creativecommons.org/ns",
+			"doc": "http://creativecommons.org/ns",
+			"short": "cc"
+		},
+	
+		"EXIF": {
+			"ns": "http://schemas.google.com/photos/exif/2007"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"category": "Other",
+	"content": {
+		"XSI": {
+			"ns": "http://www.w3.org/2001/XMLSchema-instance"
+		},
+		"OpenSearch": {
+			"ns": "http://a9.com/-/spec/opensearchrss/1.0/"
+		},
+		"XSLT": {
+			"ns": "http://www.w3.org/1999/XSL/Transform",
+			"doc": "http://www.w3.org/TR/xslt",
+			"short": "xsl"
+		},
+		"Xlink": {
+			"ns": "http://www.w3.org/1999/xlink",
+			"doc": "http://www.w3.org/TR/xlink11/"
+		},
+		"XMLNS": {
+			"ns": "http://www.w3.org/2000/xmlns/"
+		}
+	}
+}
